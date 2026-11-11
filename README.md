@@ -42,6 +42,6 @@ Then > it send the contents of that to your discord webhook
 
 ## Updates
 
-I started this project 3 days ago so you may experience some bugs or other things I'm working on some more features that i will release in the future. If you want to stay updated then join my [discord]("https://discord.gg/pPQwpG7UBs") for updates giveaways and more!
+I started this project 3 days ago so you may experience some bugs or other things I'm working on some more features that i will release in the future. If you want to stay updated then join my [**discord**](https://discord.gg/pPQwpG7UBs) for updates giveaways and more!
 
 I am **not** responsible for any damages made. Use this program for **educational purposes only** or on machine's you have **explicit permission** to do this!
