@@ -28,10 +28,11 @@ To Start it in cmd
 Whats your webhook link?
 Here you just give your webhook  link.
 
-How is your .exe called
+How is your .exe called?
 here you input what your .exe is called with extension of .exe behind the name for it to recognise the file
 
-Do you want self destruction this makes it so it deletes the chromelevator file.
+Do you want self destruction this makes it so it deletes the chromelevator file? y/n
+Here if you do yes it deletes itself after running.
 ```
 ## How to create an webhook?
 
