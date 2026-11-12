@@ -14,11 +14,16 @@ On the page you can read what it does. The only problem this program has is that
 
 To answer your question its actually simple.
 
+Run this command in powershell to start it.
 ```
 .\builder.exe
-```
-Run this command to start the file.
 
+```
+or
+```
+builder.exe
+```
+To Start it in cmd
 ```
 Whats your webhook link?
 Here you just give your webhook  link.
