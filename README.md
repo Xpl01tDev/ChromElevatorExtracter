@@ -1,5 +1,4 @@
 # ChromElevatorExtracter
-
 This is an project i have been recently working on. Its and program for the project chromelevator on **https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption**.
 
 On the page you can read what it does. The only problem this program has is that the output folder which contains the passwords, tokens etc stay on the victim's computer. My program changes that it sends the information to an discord webhook what you set up. 
