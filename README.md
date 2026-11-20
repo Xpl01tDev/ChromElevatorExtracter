@@ -15,14 +15,9 @@ To answer your question its actually simple.
 
 Run this command in powershell to start it.
 ```
-.\builder.exe
+python builder.py
+```
 
-```
-or
-```
-builder.exe
-```
-To Start it in cmd
 ```
 Whats your webhook link?
 Here you just give your webhook  link.
