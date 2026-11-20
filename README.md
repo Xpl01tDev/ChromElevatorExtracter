@@ -17,7 +17,7 @@ Run this command in powershell to start it.
 ```
 python builder.py
 ```
-
+Then you get asked the following.
 
 ```
 Whats your webhook link?
